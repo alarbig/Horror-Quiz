@@ -1,0 +1,17 @@
+body {
+    color: white;
+}
+
+#highScoresList {
+    list-style: none;
+    margin-bottom: 4rem;
+}
+/*I imported custom fonts from Google Fonts and added them into each CSS page*/
+.high-score {
+    font-size: 2.8rem;
+    margin-bottom: .5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Nastaliq Urdu', serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
